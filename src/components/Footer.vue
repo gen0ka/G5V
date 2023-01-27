@@ -71,6 +71,10 @@ export default {
     return {
       languages: [
         {
+          Language: "ptbr",
+          Code: "ptbr"
+        },
+        {
           Language: "English",
           Code: "en"
         },
