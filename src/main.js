@@ -21,7 +21,7 @@ Vue.use(VueSSE);
 const translations = require("./translations/translations.json");
 
 const i18n = new VueI18n({
-  locale: "en", // Use English by default
+  locale: "ptbr", // Use English by default
   messages: translations
 });
 
